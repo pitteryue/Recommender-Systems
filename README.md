@@ -3,7 +3,7 @@ As a pivotal tool to alleviate the information overload problem, recommender sys
 
 Article link: https://ieeexplore.ieee.org/abstract/document/9772660
 
-# Since a review article, the evaluation experiments conducted in it were partially implemented on selected public codes of benchmarks from github. References are presented as follows:
+**Since a review article, the evaluation experiments conducted in it were partially implemented on selected public codes of benchmarks from github. References are presented as follows:**
 1. https://github.com/clhchtcjj/BiNE was partially referenced by BiNE_graph.py, BiNE_graph_utils.py, and BiNE_lsh.py.
 2. https://github.com/coreylynch/pyFM and https://github.com/rixwew/pytorch-fm were partially referenced by FM.py and FM2.py.
 3. https://github.com/mayukh18/reco/tree/master/reco/recommender was partially referenced by FunkSVD.py.
