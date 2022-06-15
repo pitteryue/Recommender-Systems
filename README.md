@@ -8,6 +8,6 @@ Article link: https://ieeexplore.ieee.org/abstract/document/9772660
 2. https://github.com/coreylynch/pyFM and https://github.com/rixwew/pytorch-fm were partially referenced by FM.py and FM2.py.
 3. https://github.com/mayukh18/reco/tree/master/reco/recommender was partially referenced by FunkSVD.py.
 4. https://github.com/guoyang9/NCF was partially referenced by NCF.py.
-5. https://github.com/adamzjw/Probabilistic-matrix-factorization-in-Python and https://github.com/xuChenSJTU/PMF was partially referenced by PMF.py.
+5. https://github.com/adamzjw/Probabilistic-matrix-factorization-in-Python and https://github.com/xuChenSJTU/PMF were partially referenced by PMF.py.
 6. https://github.com/erickrf/autoencoder/tree/master/src was partially referenced by SAE.py.
 7. https://github.com/wuxiyu/transE was partially referenced by TransE.py.
